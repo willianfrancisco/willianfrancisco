@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Willian Francisco  👨‍🎓
+
+### Welcome to my profile 👋
 
 <!--
 **willianfrancisco/willianfrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on Back-end and Mobile Development ...
+
+🌱 I’m currently learning New Technologies...
+
+I'm from São Paulo Brazil.. I'm Software Developer
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-francisco)](https://www.linkedin.com/in/willian-francisco-b47605127/)
