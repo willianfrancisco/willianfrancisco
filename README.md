@@ -23,9 +23,13 @@ Here are some ideas to get you started:
 
 I'm from São Paulo Brazil.. I'm Software Developer
 
+## Contatos:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-francisco)](https://www.linkedin.com/in/willian-sousa-b47605127/)
-
+<div>
+  <a href = "mailto:willian.francisco140@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/willian-sousa-b47605127" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+</div>
+<br>
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianfrancisco&layout=compact&langs_count=7&theme=dracula"/>
